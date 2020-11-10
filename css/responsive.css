@@ -21,4 +21,6 @@
     .border-right{border: 0;}
     #details div {height: 100%;}
     }
-    
+     @media only screen and (width: 700px)
+     {#navbar nav a.menu-icon {diplay: block:}
+     
