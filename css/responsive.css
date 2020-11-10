@@ -1,4 +1,9 @@
 @media only screen and (max-width: 1108 px)
 {
   .wrapper {width: 90%;}
-#social{position: absolute; width: auto;
+#social{position: absolute; width: auto; margin-top: 82px; margin-right: 4px;}
+}
+
+@media only screen and (width: 900 px)
+{
+  body{
