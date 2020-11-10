@@ -22,5 +22,6 @@
     #details div {height: 100%;}
     }
      @media only screen and (width: 700px)
-     {#navbar nav a.menu-icon {diplay: block:}
-     nav {diplay: none}
+     {#navbar nav a.menu-icon {display: block;}
+     nav {diplay: none;}
+     
